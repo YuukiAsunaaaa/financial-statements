@@ -8,7 +8,7 @@ function Home() {
   <header>
     <h1>Welcome to Kissena Baked Goods</h1>
     <p>Financial statements</p>
-    <p className="p-6 m-6 border-2 border-current">
+   <p>
   Kissena Baked Goods is a bakery in{" "}
   <a href="https://en.wikipedia.org/wiki/Astoria,_Queens"
      target="_blank" rel="noopener noreferrer" className="underline">
